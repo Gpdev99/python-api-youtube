@@ -1,7 +1,7 @@
 from googleapiclient.discovery import build
 import json
 
-youtubeApi = 'XXX'
+youtubeApi = 'your youtube-api'
 playlist = 'PLoNrs8WVbJDT_q9GZOxHPsYqLN2kYWjI8'
 nextPage_token = None
 
