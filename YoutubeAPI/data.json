@@ -1,0 +1,734 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "2eBx7yZ9R8aQK4wfvFQh_4WBKlQ",
+    "id": "UExvTnJzOFdWYkpEVF9xOUdaT3hIUHNZcUxOMmtZV2pJOC4zMDg5MkQ5MEVDMEM1NTg2",
+    "snippet": {
+      "publishedAt": "2018-09-24T14:28:54Z",
+      "channelId": "UC2Pegqy9RhEgPCbbIlEGQKg",
+      "title": "Gorovich @ Essential (Brazil 2018)",
+      "description": "Subscribe: http://bit.ly/gorovichyoutube\nMore Gorovich - \nFB: https://www.facebook.com/gorovich1/\nSC: https://soundcloud.com/gorovichmusic \n\nGOROVICH is a Psytrance producer and DJ known for his innovative style and sound. He has performed on some of the biggest dance floors around the world, bringing a hypnotic vibration to his audiences.\nNimrod Gorovich's journey as a musician began as a drummer in the Tel Aviv indie scene. He later transitioned into the electronic world and founded the groundbreaking duo \"Empirikal,\" became a part of the legendary project \"Loud,\" and ultimately created his solo project as GOROVICH. \nIn his constant exploration and experimentation with new sounds and approaches to music, he continues to push the boundaries of Psytrance with his unique and captivating style.\n\nWith past releases on TIP Records and Hommega, GOROVICH joined Iboga Records with his debut album ‘Vortex’. His musical arsenal contains remixes and collaborations, including Ace Ventura, Captain Hook, LOUD, Eat Static, Juno Reactor, Out Of Orbit, Psysex, Eitan Reiter, Skizologic, Dekel, Perfect Stranger, Dori Sadovnik (aka Red Axes) and many more.\nGOROVICH has played in countless festivals and venues, including: Ozora Festival, Boom Festival, Psy-Fi Festival, Babilon, Adhana, Mandallha, Baoba, Nibiri, and the list goes on – Promising a unique vibrating musical experience.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Ej7YSFm4CDY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Ej7YSFm4CDY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Ej7YSFm4CDY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Ej7YSFm4CDY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Ej7YSFm4CDY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Gorovich Official",
+      "playlistId": "PLoNrs8WVbJDT_q9GZOxHPsYqLN2kYWjI8",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Ej7YSFm4CDY"
+      },
+      "videoOwnerChannelTitle": "Gorovich Official",
+      "videoOwnerChannelId": "UC2Pegqy9RhEgPCbbIlEGQKg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "A2Zd95EzSui4f4tt604RnTCuC3g",
+    "id": "UExvTnJzOFdWYkpEVF9xOUdaT3hIUHNZcUxOMmtZV2pJOC45ODRDNTg0QjA4NkFBNkQy",
+    "snippet": {
+      "publishedAt": "2018-09-24T14:28:54Z",
+      "channelId": "UC2Pegqy9RhEgPCbbIlEGQKg",
+      "title": "Gorovich @ Klika Israel 2018",
+      "description": "Subscribe: http://bit.ly/gorovichyoutube\nMore Gorovich - \nFB: https://www.facebook.com/gorovich1/\nSC: https://soundcloud.com/gorovichmusic \n\nGOROVICH is a Psytrance producer and DJ known for his innovative style and sound. He has performed on some of the biggest dance floors around the world, bringing a hypnotic vibration to his audiences.\nNimrod Gorovich's journey as a musician began as a drummer in the Tel Aviv indie scene. He later transitioned into the electronic world and founded the groundbreaking duo \"Empirikal,\" became a part of the legendary project \"Loud,\" and ultimately created his solo project as GOROVICH. \nIn his constant exploration and experimentation with new sounds and approaches to music, he continues to push the boundaries of Psytrance with his unique and captivating style.\n\nWith past releases on TIP Records and Hommega, GOROVICH joined Iboga Records with his debut album ‘Vortex’. His musical arsenal contains remixes and collaborations, including Ace Ventura, Captain Hook, LOUD, Eat Static, Juno Reactor, Out Of Orbit, Psysex, Eitan Reiter, Skizologic, Dekel, Perfect Stranger, Dori Sadovnik (aka Red Axes) and many more.\nGOROVICH has played in countless festivals and venues, including: Ozora Festival, Boom Festival, Psy-Fi Festival, Babilon, Adhana, Mandallha, Baoba, Nibiri, and the list goes on – Promising a unique vibrating musical experience.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VJ21jUo6qr4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VJ21jUo6qr4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VJ21jUo6qr4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/VJ21jUo6qr4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/VJ21jUo6qr4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Gorovich Official",
+      "playlistId": "PLoNrs8WVbJDT_q9GZOxHPsYqLN2kYWjI8",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "VJ21jUo6qr4"
+      },
+      "videoOwnerChannelTitle": "Gorovich Official",
+      "videoOwnerChannelId": "UC2Pegqy9RhEgPCbbIlEGQKg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "XNMchV8OP1jfl7CAH-uupDvLGcY",
+    "id": "UExvTnJzOFdWYkpEVF9xOUdaT3hIUHNZcUxOMmtZV2pJOC41NkI0NEY2RDEwNTU3Q0M2",
+    "snippet": {
+      "publishedAt": "2017-06-10T18:45:36Z",
+      "channelId": "UC2Pegqy9RhEgPCbbIlEGQKg",
+      "title": "Gorovich @ Midburn 2017",
+      "description": "Subscribe: http://bit.ly/gorovichyoutube\nFollow Gorovich\nhttps://linktr.ee/gorovich \n\nGOROVICH is a Psytrance producer and DJ known for his innovative style and sound. He has performed on some of the biggest dance floors around the world, bringing a hypnotic vibration to his audiences.\nNimrod Gorovich's journey as a musician began as a drummer in the Tel Aviv indie scene. He later transitioned into the electronic world and founded the groundbreaking duo \"Empirikal,\" became a part of the legendary project \"Loud,\" and ultimately created his solo project as GOROVICH. \nIn his constant exploration and experimentation with new sounds and approaches to music, he continues to push the boundaries of Psytrance with his unique and captivating style.\n\nWith past releases on TIP Records and Hommega, GOROVICH joined Iboga Records with his debut album ‘Vortex’. His musical arsenal contains remixes and collaborations, including Ace Ventura, Captain Hook, LOUD, Eat Static, Juno Reactor, Out Of Orbit, Psysex, Eitan Reiter, Skizologic, Dekel, Perfect Stranger, Dori Sadovnik (aka Red Axes) and many more.\nGOROVICH has played in countless festivals and venues, including: Ozora Festival, Boom Festival, Psy-Fi Festival, Babilon, Adhana, Mandallha, Baoba, Nibiri, and the list goes on – Promising a unique vibrating musical experience.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/HDfk61wDeQw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/HDfk61wDeQw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/HDfk61wDeQw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/HDfk61wDeQw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/HDfk61wDeQw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Gorovich Official",
+      "playlistId": "PLoNrs8WVbJDT_q9GZOxHPsYqLN2kYWjI8",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "HDfk61wDeQw"
+      },
+      "videoOwnerChannelTitle": "Gorovich Official",
+      "videoOwnerChannelId": "UC2Pegqy9RhEgPCbbIlEGQKg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "qZQhgKaN1OrW4G_GlJaK29oJpXY",
+    "id": "UExvTnJzOFdWYkpEVF9xOUdaT3hIUHNZcUxOMmtZV2pJOC41MzJCQjBCNDIyRkJDN0VD",
+    "snippet": {
+      "publishedAt": "2017-12-20T14:36:02Z",
+      "channelId": "UC2Pegqy9RhEgPCbbIlEGQKg",
+      "title": "Gorovich - Pinball @ Somthing Total 16.12.17",
+      "description": "Subscribe: http://bit.ly/gorovichyoutube\n\nMore Gorovich - \nFB: https://www.facebook.com/gorovich1/\nSC: https://soundcloud.com/gorovichmusic \n\nGOROVICH is a Psytrance producer and DJ known for his innovative style and sound. He has performed on some of the biggest dance floors around the world, bringing a hypnotic vibration to his audiences.\nNimrod Gorovich's journey as a musician began as a drummer in the Tel Aviv indie scene. He later transitioned into the electronic world and founded the groundbreaking duo \"Empirikal,\" became a part of the legendary project \"Loud,\" and ultimately created his solo project as GOROVICH. \nIn his constant exploration and experimentation with new sounds and approaches to music, he continues to push the boundaries of Psytrance with his unique and captivating style.\n\nWith past releases on TIP Records and Hommega, GOROVICH joined Iboga Records with his debut album ‘Vortex’. His musical arsenal contains remixes and collaborations, including Ace Ventura, Captain Hook, LOUD, Eat Static, Juno Reactor, Out Of Orbit, Psysex, Eitan Reiter, Skizologic, Dekel, Perfect Stranger, Dori Sadovnik (aka Red Axes) and many more.\nGOROVICH has played in countless festivals and venues, including: Ozora Festival, Boom Festival, Psy-Fi Festival, Babilon, Adhana, Mandallha, Baoba, Nibiri, and the list goes on – Promising a unique vibrating musical experience.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8fvuRxcVaMg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8fvuRxcVaMg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8fvuRxcVaMg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/8fvuRxcVaMg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/8fvuRxcVaMg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Gorovich Official",
+      "playlistId": "PLoNrs8WVbJDT_q9GZOxHPsYqLN2kYWjI8",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "8fvuRxcVaMg"
+      },
+      "videoOwnerChannelTitle": "Gorovich Official",
+      "videoOwnerChannelId": "UC2Pegqy9RhEgPCbbIlEGQKg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "Vn0SN5_u4qU93biv76ARdGr6xGI",
+    "id": "UExvTnJzOFdWYkpEVF9xOUdaT3hIUHNZcUxOMmtZV2pJOC4yODlGNEE0NkRGMEEzMEQy",
+    "snippet": {
+      "publishedAt": "2017-06-10T18:45:56Z",
+      "channelId": "UC2Pegqy9RhEgPCbbIlEGQKg",
+      "title": "Deep Israeli Jungel",
+      "description": "GOROVICH is a Psytrance producer and DJ known for his innovative style and sound. He has performed on some of the biggest dance floors around the world, bringing a hypnotic vibration to his audiences.\nNimrod Gorovich's journey as a musician began as a drummer in the Tel Aviv indie scene. He later transitioned into the electronic world and founded the groundbreaking duo \"Empirikal,\" became a part of the legendary project \"Loud,\" and ultimately created his solo project as GOROVICH. \nIn his constant exploration and experimentation with new sounds and approaches to music, he continues to push the boundaries of Psytrance with his unique and captivating style.\n\nWith past releases on TIP Records and Hommega, GOROVICH joined Iboga Records with his debut album ‘Vortex’. His musical arsenal contains remixes and collaborations, including Ace Ventura, Captain Hook, LOUD, Eat Static, Juno Reactor, Out Of Orbit, Psysex, Eitan Reiter, Skizologic, Dekel, Perfect Stranger, Dori Sadovnik (aka Red Axes) and many more.\nGOROVICH has played in countless festivals and venues, including: Ozora Festival, Boom Festival, Psy-Fi Festival, Babilon, Adhana, Mandallha, Baoba, Nibiri, and the list goes on – Promising a unique vibrating musical experience. GOROVICH is a Psytrance producer and DJ known for his innovative style and sound. He has performed on some of the biggest dance floors around the world, bringing a hypnotic vibration to his audiences.\nNimrod Gorovich's journey as a musician began as a drummer in the Tel Aviv indie scene. He later transitioned into the electronic world and founded the groundbreaking duo \"Empirikal,\" became a part of the legendary project \"Loud,\" and ultimately created his solo project as GOROVICH. \nIn his constant exploration and experimentation with new sounds and approaches to music, he continues to push the boundaries of Psytrance with his unique and captivating style.\n\nWith past releases on TIP Records and Hommega, GOROVICH joined Iboga Records with his debut album ‘Vortex’. His musical arsenal contains remixes and collaborations, including Ace Ventura, Captain Hook, LOUD, Eat Static, Juno Reactor, Out Of Orbit, Psysex, Eitan Reiter, Skizologic, Dekel, Perfect Stranger, Dori Sadovnik (aka Red Axes) and many more.\nGOROVICH has played in countless festivals and venues, including: Ozora Festival, Boom Festival, Psy-Fi Festival, Babilon, Adhana, Mandallha, Baoba, Nibiri, and the list goes on – Promising a unique vibrating musical experience.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XPFcex5LEEA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XPFcex5LEEA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XPFcex5LEEA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Gorovich Official",
+      "playlistId": "PLoNrs8WVbJDT_q9GZOxHPsYqLN2kYWjI8",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "XPFcex5LEEA"
+      },
+      "videoOwnerChannelTitle": "Gorovich Official",
+      "videoOwnerChannelId": "UC2Pegqy9RhEgPCbbIlEGQKg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "02JCyxhEnZrdJy1_sKLUfxQBTVw",
+    "id": "UExvTnJzOFdWYkpEVF9xOUdaT3hIUHNZcUxOMmtZV2pJOC40NzZCMERDMjVEN0RFRThB",
+    "snippet": {
+      "publishedAt": "2017-12-20T16:27:43Z",
+      "channelId": "UC2Pegqy9RhEgPCbbIlEGQKg",
+      "title": "Gorovich @  PsyTribe USA Haloween 28.10.17",
+      "description": "Subscribe: http://bit.ly/gorovichyoutube\n\nMore Gorovich - \nFB: https://www.facebook.com/gorovich1/\nSC: https://soundcloud.com/gorovichmusic GOROVICH is a Psytrance producer and DJ known for his innovative style and sound. He has performed on some of the biggest dance floors around the world, bringing a hypnotic vibration to his audiences.\nNimrod Gorovich's journey as a musician began as a drummer in the Tel Aviv indie scene. He later transitioned into the electronic world and founded the groundbreaking duo \"Empirikal,\" became a part of the legendary project \"Loud,\" and ultimately created his solo project as GOROVICH. \nIn his constant exploration and experimentation with new sounds and approaches to music, he continues to push the boundaries of Psytrance with his unique and captivating style.\n\nWith past releases on TIP Records and Hommega, GOROVICH joined Iboga Records with his debut album ‘Vortex’. His musical arsenal contains remixes and collaborations, including Ace Ventura, Captain Hook, LOUD, Eat Static, Juno Reactor, Out Of Orbit, Psysex, Eitan Reiter, Skizologic, Dekel, Perfect Stranger, Dori Sadovnik (aka Red Axes) and many more.\nGOROVICH has played in countless festivals and venues, including: Ozora Festival, Boom Festival, Psy-Fi Festival, Babilon, Adhana, Mandallha, Baoba, Nibiri, and the list goes on – Promising a unique vibrating musical experience.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/GyoQwKMrsrY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/GyoQwKMrsrY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/GyoQwKMrsrY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/GyoQwKMrsrY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/GyoQwKMrsrY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Gorovich Official",
+      "playlistId": "PLoNrs8WVbJDT_q9GZOxHPsYqLN2kYWjI8",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "GyoQwKMrsrY"
+      },
+      "videoOwnerChannelTitle": "Gorovich Official",
+      "videoOwnerChannelId": "UC2Pegqy9RhEgPCbbIlEGQKg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "eeO0LrL_MNTH-daYnwWS60448ME",
+    "id": "UExvTnJzOFdWYkpEVF9xOUdaT3hIUHNZcUxOMmtZV2pJOC41MjE1MkI0OTQ2QzJGNzNG",
+    "snippet": {
+      "publishedAt": "2017-12-20T14:35:58Z",
+      "channelId": "UC2Pegqy9RhEgPCbbIlEGQKg",
+      "title": "Gorovich - @ Totem 19.10.17",
+      "description": "Subscribe: http://bit.ly/gorovichyoutube\n\nMore Gorovich - \nFB: https://www.facebook.com/gorovich1/\nSC: https://soundcloud.com/gorovichmusic \n\nGOROVICH is a Psytrance producer and DJ known for his innovative style and sound. He has performed on some of the biggest dance floors around the world, bringing a hypnotic vibration to his audiences.\nNimrod Gorovich's journey as a musician began as a drummer in the Tel Aviv indie scene. He later transitioned into the electronic world and founded the groundbreaking duo \"Empirikal,\" became a part of the legendary project \"Loud,\" and ultimately created his solo project as GOROVICH. \nIn his constant exploration and experimentation with new sounds and approaches to music, he continues to push the boundaries of Psytrance with his unique and captivating style.\n\nWith past releases on TIP Records and Hommega, GOROVICH joined Iboga Records with his debut album ‘Vortex’. His musical arsenal contains remixes and collaborations, including Ace Ventura, Captain Hook, LOUD, Eat Static, Juno Reactor, Out Of Orbit, Psysex, Eitan Reiter, Skizologic, Dekel, Perfect Stranger, Dori Sadovnik (aka Red Axes) and many more.\nGOROVICH has played in countless festivals and venues, including: Ozora Festival, Boom Festival, Psy-Fi Festival, Babilon, Adhana, Mandallha, Baoba, Nibiri, and the list goes on – Promising a unique vibrating musical experience.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/mARSRL_LSvA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/mARSRL_LSvA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/mARSRL_LSvA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/mARSRL_LSvA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/mARSRL_LSvA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Gorovich Official",
+      "playlistId": "PLoNrs8WVbJDT_q9GZOxHPsYqLN2kYWjI8",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "mARSRL_LSvA"
+      },
+      "videoOwnerChannelTitle": "Gorovich Official",
+      "videoOwnerChannelId": "UC2Pegqy9RhEgPCbbIlEGQKg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "-8hn_UX09ywym4792-t52Hz7FRs",
+    "id": "UExvTnJzOFdWYkpEVF9xOUdaT3hIUHNZcUxOMmtZV2pJOC4wMTcyMDhGQUE4NTIzM0Y5",
+    "snippet": {
+      "publishedAt": "2017-06-10T18:46:47Z",
+      "channelId": "UC2Pegqy9RhEgPCbbIlEGQKg",
+      "title": "Underground Full Moon Rave",
+      "description": "Subscribe: http://bit.ly/gorovichyoutube\n\nMore Gorovich - \nFB: https://www.facebook.com/gorovich1/\nSC: https://soundcloud.com/gorovichmusic\n\nGOROVICH brings an original psy trance expirience to the dancfloor, combined with rythems from all over the world, spiced with analog and modular synthesizers that lead to a full electro-hypnotic result. GOROVICH is a Psytrance producer and DJ known for his innovative style and sound. He has performed on some of the biggest dance floors around the world, bringing a hypnotic vibration to his audiences.\nNimrod Gorovich's journey as a musician began as a drummer in the Tel Aviv indie scene. He later transitioned into the electronic world and founded the groundbreaking duo \"Empirikal,\" became a part of the legendary project \"Loud,\" and ultimately created his solo project as GOROVICH. \nIn his constant exploration and experimentation with new sounds and approaches to music, he continues to push the boundaries of Psytrance with his unique and captivating style.\n\nWith past releases on TIP Records and Hommega, GOROVICH joined Iboga Records with his debut album ‘Vortex’. His musical arsenal contains remixes and collaborations, including Ace Ventura, Captain Hook, LOUD, Eat Static, Juno Reactor, Out Of Orbit, Psysex, Eitan Reiter, Skizologic, Dekel, Perfect Stranger, Dori Sadovnik (aka Red Axes) and many more.\nGOROVICH has played in countless festivals and venues, including: Ozora Festival, Boom Festival, Psy-Fi Festival, Babilon, Adhana, Mandallha, Baoba, Nibiri, and the list goes on – Promising a unique vibrating musical experience.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/OSuRapNKPMM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/OSuRapNKPMM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/OSuRapNKPMM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/OSuRapNKPMM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/OSuRapNKPMM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Gorovich Official",
+      "playlistId": "PLoNrs8WVbJDT_q9GZOxHPsYqLN2kYWjI8",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "OSuRapNKPMM"
+      },
+      "videoOwnerChannelTitle": "Gorovich Official",
+      "videoOwnerChannelId": "UC2Pegqy9RhEgPCbbIlEGQKg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "jmO6-SLWOWDXfnNL17x6XxEHE5w",
+    "id": "UExvTnJzOFdWYkpEVF9xOUdaT3hIUHNZcUxOMmtZV2pJOC5GNjNDRDREMDQxOThCMDQ2",
+    "snippet": {
+      "publishedAt": "2017-12-20T16:27:43Z",
+      "channelId": "UC2Pegqy9RhEgPCbbIlEGQKg",
+      "title": "Gorovich - @ Infinity Project 2017",
+      "description": "Subscribe: http://bit.ly/gorovichyoutube\n\nMore Gorovich - \nFB: https://www.facebook.com/gorovich1/\nSC: https://soundcloud.com/gorovichmusic \n\nGOROVICH is a Psytrance producer and DJ known for his innovative style and sound. He has performed on some of the biggest dance floors around the world, bringing a hypnotic vibration to his audiences.\nNimrod Gorovich's journey as a musician began as a drummer in the Tel Aviv indie scene. He later transitioned into the electronic world and founded the groundbreaking duo \"Empirikal,\" became a part of the legendary project \"Loud,\" and ultimately created his solo project as GOROVICH. \nIn his constant exploration and experimentation with new sounds and approaches to music, he continues to push the boundaries of Psytrance with his unique and captivating style.\n\nWith past releases on TIP Records and Hommega, GOROVICH joined Iboga Records with his debut album ‘Vortex’. His musical arsenal contains remixes and collaborations, including Ace Ventura, Captain Hook, LOUD, Eat Static, Juno Reactor, Out Of Orbit, Psysex, Eitan Reiter, Skizologic, Dekel, Perfect Stranger, Dori Sadovnik (aka Red Axes) and many more.\nGOROVICH has played in countless festivals and venues, including: Ozora Festival, Boom Festival, Psy-Fi Festival, Babilon, Adhana, Mandallha, Baoba, Nibiri, and the list goes on – Promising a unique vibrating musical experience.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-hwZ2aNSUV0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-hwZ2aNSUV0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-hwZ2aNSUV0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-hwZ2aNSUV0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/-hwZ2aNSUV0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Gorovich Official",
+      "playlistId": "PLoNrs8WVbJDT_q9GZOxHPsYqLN2kYWjI8",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "-hwZ2aNSUV0"
+      },
+      "videoOwnerChannelTitle": "Gorovich Official",
+      "videoOwnerChannelId": "UC2Pegqy9RhEgPCbbIlEGQKg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "f13uMrdj55LnITLyaPg0NgKowmE",
+    "id": "UExvTnJzOFdWYkpEVF9xOUdaT3hIUHNZcUxOMmtZV2pJOC5DQUNERDQ2NkIzRUQxNTY1",
+    "snippet": {
+      "publishedAt": "2017-12-20T16:27:43Z",
+      "channelId": "UC2Pegqy9RhEgPCbbIlEGQKg",
+      "title": "Gorovich - Back To The Studio",
+      "description": "Subscribe: http://bit.ly/gorovichyoutube\n\nMore Gorovich - \nFB: https://www.facebook.com/gorovich1/\nSC: https://soundcloud.com/gorovichmusic \n\nGOROVICH is a Psytrance producer and DJ known for his innovative style and sound. He has performed on some of the biggest dance floors around the world, bringing a hypnotic vibration to his audiences.\nNimrod Gorovich's journey as a musician began as a drummer in the Tel Aviv indie scene. He later transitioned into the electronic world and founded the groundbreaking duo \"Empirikal,\" became a part of the legendary project \"Loud,\" and ultimately created his solo project as GOROVICH. \nIn his constant exploration and experimentation with new sounds and approaches to music, he continues to push the boundaries of Psytrance with his unique and captivating style.\n\nWith past releases on TIP Records and Hommega, GOROVICH joined Iboga Records with his debut album ‘Vortex’. His musical arsenal contains remixes and collaborations, including Ace Ventura, Captain Hook, LOUD, Eat Static, Juno Reactor, Out Of Orbit, Psysex, Eitan Reiter, Skizologic, Dekel, Perfect Stranger, Dori Sadovnik (aka Red Axes) and many more.\nGOROVICH has played in countless festivals and venues, including: Ozora Festival, Boom Festival, Psy-Fi Festival, Babilon, Adhana, Mandallha, Baoba, Nibiri, and the list goes on – Promising a unique vibrating musical experience.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/lr_d_0GoUZ8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/lr_d_0GoUZ8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/lr_d_0GoUZ8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/lr_d_0GoUZ8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/lr_d_0GoUZ8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Gorovich Official",
+      "playlistId": "PLoNrs8WVbJDT_q9GZOxHPsYqLN2kYWjI8",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "lr_d_0GoUZ8"
+      },
+      "videoOwnerChannelTitle": "Gorovich Official",
+      "videoOwnerChannelId": "UC2Pegqy9RhEgPCbbIlEGQKg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "wAjup5MdS7byVszK8u_IEU0qwqQ",
+    "id": "UExvTnJzOFdWYkpEVF9xOUdaT3hIUHNZcUxOMmtZV2pJOC5EMEEwRUY5M0RDRTU3NDJC",
+    "snippet": {
+      "publishedAt": "2018-09-24T14:27:55Z",
+      "channelId": "UC2Pegqy9RhEgPCbbIlEGQKg",
+      "title": "Gorovich @ Origin Festival south Africa 2017",
+      "description": "Subscribe: http://bit.ly/gorovichyoutube\n\nMore Gorovich - \nFB: https://www.facebook.com/gorovich1/\nSC: https://soundcloud.com/gorovichmusic \n\nGOROVICH is a Psytrance producer and DJ known for his innovative style and sound. He has performed on some of the biggest dance floors around the world, bringing a hypnotic vibration to his audiences.\nNimrod Gorovich's journey as a musician began as a drummer in the Tel Aviv indie scene. He later transitioned into the electronic world and founded the groundbreaking duo \"Empirikal,\" became a part of the legendary project \"Loud,\" and ultimately created his solo project as GOROVICH. \nIn his constant exploration and experimentation with new sounds and approaches to music, he continues to push the boundaries of Psytrance with his unique and captivating style.\n\nWith past releases on TIP Records and Hommega, GOROVICH joined Iboga Records with his debut album ‘Vortex’. His musical arsenal contains remixes and collaborations, including Ace Ventura, Captain Hook, LOUD, Eat Static, Juno Reactor, Out Of Orbit, Psysex, Eitan Reiter, Skizologic, Dekel, Perfect Stranger, Dori Sadovnik (aka Red Axes) and many more.\nGOROVICH has played in countless festivals and venues, including: Ozora Festival, Boom Festival, Psy-Fi Festival, Babilon, Adhana, Mandallha, Baoba, Nibiri, and the list goes on – Promising a unique vibrating musical experience.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/8aubFMVvY08/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/8aubFMVvY08/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/8aubFMVvY08/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Gorovich Official",
+      "playlistId": "PLoNrs8WVbJDT_q9GZOxHPsYqLN2kYWjI8",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "8aubFMVvY08"
+      },
+      "videoOwnerChannelTitle": "Gorovich Official",
+      "videoOwnerChannelId": "UC2Pegqy9RhEgPCbbIlEGQKg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "2tEQReOc0OlxVlSjePMpq1n0XzE",
+    "id": "UExvTnJzOFdWYkpEVF9xOUdaT3hIUHNZcUxOMmtZV2pJOC41Mzk2QTAxMTkzNDk4MDhF",
+    "snippet": {
+      "publishedAt": "2018-09-24T14:28:54Z",
+      "channelId": "UC2Pegqy9RhEgPCbbIlEGQKg",
+      "title": "Gorovic @ Mckenha",
+      "description": "Subscribe: http://bit.ly/gorovichyoutube\nMore Gorovich - \nFB: https://www.facebook.com/gorovich1/\nSC: https://soundcloud.com/gorovichmusic\n\nTrack List\nGorovich - Digital Pussy\nGorovich - Venus (unreleased)\nGorovich - Lucid Dream (unreleased)\nGorovich - Area 101 (unreleased)\nGorovich - Pinball \n\nGOROVICH is a Psytrance producer and DJ known for his innovative style and sound. He has performed on some of the biggest dance floors around the world, bringing a hypnotic vibration to his audiences.\nNimrod Gorovich's journey as a musician began as a drummer in the Tel Aviv indie scene. He later transitioned into the electronic world and founded the groundbreaking duo \"Empirikal,\" became a part of the legendary project \"Loud,\" and ultimately created his solo project as GOROVICH. \nIn his constant exploration and experimentation with new sounds and approaches to music, he continues to push the boundaries of Psytrance with his unique and captivating style.\n\nWith past releases on TIP Records and Hommega, GOROVICH joined Iboga Records with his debut album ‘Vortex’. His musical arsenal contains remixes and collaborations, including Ace Ventura, Captain Hook, LOUD, Eat Static, Juno Reactor, Out Of Orbit, Psysex, Eitan Reiter, Skizologic, Dekel, Perfect Stranger, Dori Sadovnik (aka Red Axes) and many more.\nGOROVICH has played in countless festivals and venues, including: Ozora Festival, Boom Festival, Psy-Fi Festival, Babilon, Adhana, Mandallha, Baoba, Nibiri, and the list goes on – Promising a unique vibrating musical experience.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/z2St9IW8iaY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/z2St9IW8iaY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/z2St9IW8iaY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/z2St9IW8iaY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/z2St9IW8iaY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Gorovich Official",
+      "playlistId": "PLoNrs8WVbJDT_q9GZOxHPsYqLN2kYWjI8",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "z2St9IW8iaY"
+      },
+      "videoOwnerChannelTitle": "Gorovich Official",
+      "videoOwnerChannelId": "UC2Pegqy9RhEgPCbbIlEGQKg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "jz1RVQcloBiTAb6VO1i-iOAK6yY",
+    "id": "UExvTnJzOFdWYkpEVF9xOUdaT3hIUHNZcUxOMmtZV2pJOC5EQUE1NTFDRjcwMDg0NEMz",
+    "snippet": {
+      "publishedAt": "2018-09-24T14:28:54Z",
+      "channelId": "UC2Pegqy9RhEgPCbbIlEGQKg",
+      "title": "Into The Vortex - Chapter 1: 'Raving With Pinball'",
+      "description": "Subscribe: http://bit.ly/gorovichyoutube\nMore Gorovich - \nFB: https://www.facebook.com/gorovich1/\nSC: https://soundcloud.com/gorovichmusic\n\nFor the upcoming release of my debut album - VORTEX in HOMmega (Official), with the help and encouragement of my good friends Danni Tzchori and Oren Freund, I’m going to share a few documentary episodes which reveals my personal journey and the creation process.\n\nChapter I - ‘Raving with Pinball’ : exposing a part of the trance culture I come from. Taken in the deep underground scene of Israel @ Batz family בץ ביער\nVideo by Danni Tzchori\n\nLove \n\nGOROVICH is a Psytrance producer and DJ known for his innovative style and sound. He has performed on some of the biggest dance floors around the world, bringing a hypnotic vibration to his audiences.\nNimrod Gorovich's journey as a musician began as a drummer in the Tel Aviv indie scene. He later transitioned into the electronic world and founded the groundbreaking duo \"Empirikal,\" became a part of the legendary project \"Loud,\" and ultimately created his solo project as GOROVICH. \nIn his constant exploration and experimentation with new sounds and approaches to music, he continues to push the boundaries of Psytrance with his unique and captivating style.\n\nWith past releases on TIP Records and Hommega, GOROVICH joined Iboga Records with his debut album ‘Vortex’. His musical arsenal contains remixes and collaborations, including Ace Ventura, Captain Hook, LOUD, Eat Static, Juno Reactor, Out Of Orbit, Psysex, Eitan Reiter, Skizologic, Dekel, Perfect Stranger, Dori Sadovnik (aka Red Axes) and many more.\nGOROVICH has played in countless festivals and venues, including: Ozora Festival, Boom Festival, Psy-Fi Festival, Babilon, Adhana, Mandallha, Baoba, Nibiri, and the list goes on – Promising a unique vibrating musical experience.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qMdMRpZHM2U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qMdMRpZHM2U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qMdMRpZHM2U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qMdMRpZHM2U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/qMdMRpZHM2U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Gorovich Official",
+      "playlistId": "PLoNrs8WVbJDT_q9GZOxHPsYqLN2kYWjI8",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "qMdMRpZHM2U"
+      },
+      "videoOwnerChannelTitle": "Gorovich Official",
+      "videoOwnerChannelId": "UC2Pegqy9RhEgPCbbIlEGQKg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "8YAPWAozmfdzY7hUgnzHxR-Z4Rc",
+    "id": "UExvTnJzOFdWYkpEVF9xOUdaT3hIUHNZcUxOMmtZV2pJOC41QTY1Q0UxMTVCODczNThE",
+    "snippet": {
+      "publishedAt": "2018-09-24T14:29:20Z",
+      "channelId": "UC2Pegqy9RhEgPCbbIlEGQKg",
+      "title": "Gorovich - Midburn 2018 Experience",
+      "description": "Subscribe: http://bit.ly/gorovichyoutube\nRelease date: 19.1.18\nLabel: HOMmega\nBeatport: https://www.beatport.com/release/pinb...\n\nMore Gorovich - \nFB: https://www.facebook.com/gorovich1/\nSC: https://soundcloud.com/gorovichmusic \n\nGOROVICH is a Psytrance producer and DJ known for his innovative style and sound. He has performed on some of the biggest dance floors around the world, bringing a hypnotic vibration to his audiences.\nNimrod Gorovich's journey as a musician began as a drummer in the Tel Aviv indie scene. He later transitioned into the electronic world and founded the groundbreaking duo \"Empirikal,\" became a part of the legendary project \"Loud,\" and ultimately created his solo project as GOROVICH. \nIn his constant exploration and experimentation with new sounds and approaches to music, he continues to push the boundaries of Psytrance with his unique and captivating style.\n\nWith past releases on TIP Records and Hommega, GOROVICH joined Iboga Records with his debut album ‘Vortex’. His musical arsenal contains remixes and collaborations, including Ace Ventura, Captain Hook, LOUD, Eat Static, Juno Reactor, Out Of Orbit, Psysex, Eitan Reiter, Skizologic, Dekel, Perfect Stranger, Dori Sadovnik (aka Red Axes) and many more.\nGOROVICH has played in countless festivals and venues, including: Ozora Festival, Boom Festival, Psy-Fi Festival, Babilon, Adhana, Mandallha, Baoba, Nibiri, and the list goes on – Promising a unique vibrating musical experience.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/XJmlV7oGD5A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/XJmlV7oGD5A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/XJmlV7oGD5A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/XJmlV7oGD5A/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/XJmlV7oGD5A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Gorovich Official",
+      "playlistId": "PLoNrs8WVbJDT_q9GZOxHPsYqLN2kYWjI8",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "XJmlV7oGD5A"
+      },
+      "videoOwnerChannelTitle": "Gorovich Official",
+      "videoOwnerChannelId": "UC2Pegqy9RhEgPCbbIlEGQKg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "xaFhZOppSJgXLTG-J35xHxyw1mU",
+    "id": "UExvTnJzOFdWYkpEVF9xOUdaT3hIUHNZcUxOMmtZV2pJOC4yMUQyQTQzMjRDNzMyQTMy",
+    "snippet": {
+      "publishedAt": "2022-01-04T16:15:24Z",
+      "channelId": "UC2Pegqy9RhEgPCbbIlEGQKg",
+      "title": "Magic Moments @ Adhana Festival 2022 Gorovich",
+      "description": "Some magic moments from the mighty Adhana Festival 💫🙏❤️\nStay tuned for the full set video ☢️ \nTracks IDs:\nLiquid Hook (RMX unreleased)\nPinball\nCalifornia Resonance P.2\nMachines (Empirikal RMX)\nEnd 🙂 \n\nSubscribe: http://bit.ly/gorovichyoutube\nFollow Gorovich\nhttps://linktr.ee/gorovich \n\nGOROVICH is a Psytrance producer and DJ known for his innovative style and sound. He has performed on some of the biggest dance floors around the world, bringing a hypnotic vibration to his audiences.\nNimrod Gorovich's journey as a musician began as a drummer in the Tel Aviv indie scene. He later transitioned into the electronic world and founded the groundbreaking duo \"Empirikal,\" became a part of the legendary project \"Loud,\" and ultimately created his solo project as GOROVICH. \nIn his constant exploration and experimentation with new sounds and approaches to music, he continues to push the boundaries of Psytrance with his unique and captivating style.\n\nWith past releases on TIP Records and Hommega, GOROVICH joined Iboga Records with his debut album ‘Vortex’. His musical arsenal contains remixes and collaborations, including Ace Ventura, Captain Hook, LOUD, Eat Static, Juno Reactor, Out Of Orbit, Psysex, Eitan Reiter, Skizologic, Dekel, Perfect Stranger, Dori Sadovnik (aka Red Axes) and many more.\nGOROVICH has played in countless festivals and venues, including: Ozora Festival, Boom Festival, Psy-Fi Festival, Babilon, Adhana, Mandallha, Baoba, Nibiri, and the list goes on – Promising a unique vibrating musical experience.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/gPYCLjaokgs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/gPYCLjaokgs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/gPYCLjaokgs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/gPYCLjaokgs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/gPYCLjaokgs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Gorovich Official",
+      "playlistId": "PLoNrs8WVbJDT_q9GZOxHPsYqLN2kYWjI8",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "gPYCLjaokgs"
+      },
+      "videoOwnerChannelTitle": "Gorovich Official",
+      "videoOwnerChannelId": "UC2Pegqy9RhEgPCbbIlEGQKg"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "bvYVi9hgMxahkIFkYmeZ_Gf2P0g",
+    "id": "UExvTnJzOFdWYkpEVF9xOUdaT3hIUHNZcUxOMmtZV2pJOC45RTgxNDRBMzUwRjQ0MDhC",
+    "snippet": {
+      "publishedAt": "2022-10-17T15:17:02Z",
+      "channelId": "UC2Pegqy9RhEgPCbbIlEGQKg",
+      "title": "Gorovich - Pinball Samba @ Mandallha Festival 2022",
+      "description": "Subscribe: http://bit.ly/gorovichyoutube\nFollow Gorovich\nhttps://linktr.ee/gorovich\n\nBooking: gorovichmusic@gmail.com\n\nGOROVICH is a Producer/DJ that has redefined Psytrance. His signature sound combines funky rhythms with pure analog synths, to create a hypnotic result that has proven itself again and again on the biggest dance floors around the globe.\n\nFrom his days as a fierce drummer in the Tel Aviv indie scene, through founding the duo Empirikal, live drumming with the legendary LOUD, and ultimately exploding onto the Psytrance scene with his solo project, Nimrod Gorovich is on a never-ending search for the next unique sound—and the embracing audience is right there along with him for the ride.\n\nWith past releases on TIP Records and Hommega, GOROVICH is signed to Iboga Records and FM Booking.\nSome collaborations and remixes include: Ace Ventura, Captain Hook, LOUD, Eat Static, Juno Reactor, Out Of Orbit,\nPsysex, Eitan Reiter, Skizologic, Dekel, Perfect Stranger, Dori Sadovnik (aka Red Axes).\n\nGOROVICH has played in countless festivals and venues, including: Ozora Festival, Boom Festival, Psy-Fi Festival, Babilon, Adhana, Mandallha, Baoba, Nibiri, and many more. GOROVICH is a Psytrance producer and DJ known for his innovative style and sound. He has performed on some of the biggest dance floors around the world, bringing a hypnotic vibration to his audiences.\nNimrod Gorovich's journey as a musician began as a drummer in the Tel Aviv indie scene. He later transitioned into the electronic world and founded the groundbreaking duo \"Empirikal,\" became a part of the legendary project \"Loud,\" and ultimately created his solo project as GOROVICH. \nIn his constant exploration and experimentation with new sounds and approaches to music, he continues to push the boundaries of Psytrance with his unique and captivating style.\n\nWith past releases on TIP Records and Hommega, GOROVICH joined Iboga Records with his debut album ‘Vortex’. His musical arsenal contains remixes and collaborations, including Ace Ventura, Captain Hook, LOUD, Eat Static, Juno Reactor, Out Of Orbit, Psysex, Eitan Reiter, Skizologic, Dekel, Perfect Stranger, Dori Sadovnik (aka Red Axes) and many more.\nGOROVICH has played in countless festivals and venues, including: Ozora Festival, Boom Festival, Psy-Fi Festival, Babilon, Adhana, Mandallha, Baoba, Nibiri, and the list goes on – Promising a unique vibrating musical experience.",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/NN-n7lNOV3I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/NN-n7lNOV3I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/NN-n7lNOV3I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/NN-n7lNOV3I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/NN-n7lNOV3I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Gorovich Official",
+      "playlistId": "PLoNrs8WVbJDT_q9GZOxHPsYqLN2kYWjI8",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "NN-n7lNOV3I"
+      },
+      "videoOwnerChannelTitle": "Gorovich Official",
+      "videoOwnerChannelId": "UC2Pegqy9RhEgPCbbIlEGQKg"
+    }
+  }
+]
