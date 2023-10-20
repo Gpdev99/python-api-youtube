@@ -13,7 +13,7 @@ while True:
     res = youtube.playlistItems().list(part='snippet', playlistId=playlist, maxResults=20).execute()
     playlist_videos += res['items']
 
-    nextPage_token = res.get('nestPageToken')
+    nextPage_token = res.get('nextPageToken')
 
     if nextPage_token is None:
         break
